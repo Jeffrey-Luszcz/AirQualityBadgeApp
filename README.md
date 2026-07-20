@@ -89,7 +89,7 @@ Based on the color/level/data-source approach of the Arduino
 - WiFi connection and data fetching are non-blocking (driven each frame by
   `io.ticks`), so the UI stays responsive.
   
-  ## License
+## License
   
-  SPDX-License-Identifier: MIT
+SPDX-License-Identifier: MIT
   
