@@ -88,3 +88,8 @@ Based on the color/level/data-source approach of the Arduino
 - Press **HOME** on back of Badge to exit back to the MonaOS menu.
 - WiFi connection and data fetching are non-blocking (driven each frame by
   `io.ticks`), so the UI stays responsive.
+  
+  ## License
+  
+  SPDX-License-Identifier: MIT
+  
