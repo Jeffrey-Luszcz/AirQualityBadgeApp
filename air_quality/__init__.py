@@ -1,6 +1,10 @@
 import sys
 import os
 
+# Air Quality Badge App
+# https://github.com/Jeffrey-Luszcz/AirQualityBadgeApp/
+# SPDX-License-Identifier: MIT
+
 sys.path.insert(0, "/system/apps/air_quality")
 os.chdir("/system/apps/air_quality")
 
